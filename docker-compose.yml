@@ -1,0 +1,7 @@
+py:
+    volumes:
+        - ./code:/code
+    dockerfile: docker_file_py3web
+    build: ./
+    ports:
+        - "8091:8091"
