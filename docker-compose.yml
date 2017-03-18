@@ -5,3 +5,4 @@ py:
     build: ./
     ports:
         - "8091:8091"
+    restart: always
