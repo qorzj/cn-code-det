@@ -1,2 +1,3 @@
 py3web
 requests>=2.13.0
+ifsugar
